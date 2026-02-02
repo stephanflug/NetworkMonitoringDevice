@@ -126,7 +126,11 @@ Damit entscheidest du bewusst, ob das Monitoring nach einem Neustart automatisch
 - Bei Ping kann eine Firewall ICMP blockieren – dann besser **TCP** nutzen (passender Port).
 
 ---
+### Unterstütze das Büro-Kaffeekonto!
 
-## Support / Feedback
+Damit der Kaffee im Büro nie ausgeht, wäre eine kleine Spende super! 💰☕  
+Jeder Beitrag hilft, die Kaffeemaschine am Laufen zu halten, damit wir alle produktiv bleiben können!
 
-Wenn du Verbesserungsvorschläge hast (z. B. zusätzliche Exportformate oder weitere Diagramme), einfach ein Issue erstellen oder Feedback geben.
+[**Spende für Kaffee**](https://www.paypal.com/donate/?business=ACU26RPTCA44S&no_recurring=0&item_name=Dieses+Projekt+und+der+Service+kann+nur+durch+eure+Spenden+finanziert+werden.&currency_code=EUR)
+
+Vielen Dank für deine Unterstützung! 🙌
